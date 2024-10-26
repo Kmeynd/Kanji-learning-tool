@@ -1,0 +1,12 @@
+Kanji learning tool
+
+This project is meant to help people who learn kanji by providing examples in sentences.
+After registering every correct answer and total points is also registered.
+On the menu screen it is possible to choose between difficulty levels(N1,N2,N3,N4,N5) or by topics(Lebron_James,日本料理,北海度).
+There is also a leaderboard with the top 3 users.
+5 questions are asked then you can try again with the difficulty or topic of your choice.
+
+I used pygame to create the UI, "kanji-lists 0.1.0" on PyPi to get a lists of the kanji in JLPT. 
+I also used "Gen Jyuu Gothic Monospace Bold" as font.
+Every sentences was taken from wikipedia page of the topics but some of them are from a japanese drama show called "Good Luck!!".
+
